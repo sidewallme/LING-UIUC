@@ -1,3 +1,3 @@
 # LING-UIUC
 
-Update soon
+Please see my [Wiki](https://github.com/sidewallme/LING-UIUC/wiki)
